@@ -10,6 +10,10 @@ header{
 
 }
 
+section .download  {
+  padding: 100px 0; 
+}
+
 header .nav {
   justify-content: flex-end;
   border-bottom: 0px;
@@ -110,12 +114,13 @@ header .col-lg-3{
 
 
   /*Footer*/
+
 footer {
   text-align: center; 
 }
   .footer-top {
     background-color: #3a3e64;
-    padding-top: 50px; 
+    padding-top: 40px; 
 }
   .footer-bottom {
     background-color: #313454;
@@ -126,8 +131,6 @@ footer {
 }
   .footer h5 {
     color: #fff; 
-}
-  .footer h5 {
     margin-bottom: 20px;
 }
   .footer-top p {
@@ -141,9 +144,15 @@ footer {
 }
   .footer .share {
     margin-top: 0; 
-    width: 485px
+    width: 100%;
 }
     .footer .share li {
       display: inline-block;
       float: none; 
+}
+
+ .download p{
+    color: #2d3033;
+    font-weight: 600;
+    padding-bottom: 20px; 
 }
