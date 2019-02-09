@@ -10,6 +10,10 @@ header{
 
 }
 
+section .download  {
+  padding: 100px 0; 
+}
+
 header .nav {
   justify-content: flex-end;
   border-bottom: 0px;
@@ -80,6 +84,7 @@ header .col-lg-3{
      padding: 15px 40px;
 }
 
+
 footer {
   text-align: center; 
 }
@@ -114,4 +119,10 @@ footer {
     .footer .share li {
       display: inline-block;
       float: none; 
+}
+
+ .download p{
+    color: #2d3033;
+    font-weight: 600;
+    padding-bottom: 20px; 
 }
