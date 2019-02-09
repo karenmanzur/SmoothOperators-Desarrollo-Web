@@ -100,25 +100,20 @@ footer {
   .footer h5 {
     margin-bottom: 20px;
 }
-  .footer p {
-    color: rgba(255, 255, 255, 0.5);
+  .footer-top p {
+    color: #9d9fb2;
+}
+  .footer-bottom p {
+    color: #808080;
 }
   .footer a {
     color: #fff; 
 }
   .footer .share {
     margin-top: 0; 
-    width: 0px
+    width: 485px
 }
     .footer .share li {
       display: inline-block;
       float: none; 
-}
-    .footer .share a {
-      color: #fff; 
-}
-  .footer .fa-heart {
-    color: #e84545;
-    font-size: 11px;
-    margin: 0 2px; 
 }
