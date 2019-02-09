@@ -85,7 +85,7 @@ footer {
 }
   .footer-top {
     background-color: #3a3e64;
-    padding-top: 50px; 
+    padding-top: 40px; 
 }
   .footer-bottom {
     background-color: #313454;
@@ -96,8 +96,6 @@ footer {
 }
   .footer h5 {
     color: #fff; 
-}
-  .footer h5 {
     margin-bottom: 20px;
 }
   .footer-top p {
@@ -111,7 +109,7 @@ footer {
 }
   .footer .share {
     margin-top: 0; 
-    width: 100;
+    width: 100%;
 }
     .footer .share li {
       display: inline-block;
