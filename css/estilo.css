@@ -3,12 +3,29 @@ body{
   font-weight: bold;
     color: #6c7279; 
 }
-
+.cardo{
+  font-family: 'Cardo', serif;
+  font-size: 25px;
+  padding-top: 100px;
+  padding-left: 2%;
+  padding-right: 0%;
+  margin: 0;
+}
+.color-cita{
+  background-color: #53354a;
+  color: #fff;
+}
+.cita{
+  font-family: 'Raleway', sans-serif;
+  
+  color: #fff;
+  margin-top: 30px;
+}
 header{
   width: 100%;
 }
 .img-width{
-  width: 337px;
+  width: 25%;
   height: 256px;
 }
 .text-0{
@@ -35,7 +52,7 @@ header{
   font-weight: normal;
 }
 section .download  {
-  padding: 100px 0; 
+  padding: 60px 0 100px; 
 }
 
 header .nav {
@@ -144,7 +161,7 @@ footer {
 }
   .footer-top {
     background-color: #3a3e64;
-    padding-top: 40px; 
+    padding-top: 70px; 
 }
   .footer-bottom {
     background-color: #313454;
@@ -170,13 +187,18 @@ footer {
     margin-top: 0; 
     width: 100%;
 }
-    .footer .share li {
+  .footer .share li {
       display: inline-block;
       float: none; 
 }
-
- .download p{
+ .download p {
     color: #2d3033;
     font-weight: 600;
     padding-bottom: 20px; 
+}
+ .footer .heart {
+    font-family: Webdings, sans-serif;
+    color: #e84545; 
+    font-size: 14px;
+    margin: 0 2px;
 }
