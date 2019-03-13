@@ -23,6 +23,35 @@ body{
 }
 header{
   width: 100%;
+
+}
+.img-width{
+  width: 25%;
+  height: 256px;
+}
+.text-0{
+  font-size: 0rem;
+}
+.mt-150{
+  margin-top: 150px;
+}
+.mb-150{
+  margin-bottom: 150px;
+}
+.names{
+  font-size: 1.4rem;
+  color: #3b3e41;
+  font-weight: normal;
+}
+.name-color{
+  color: #e94a4a;
+  font-size: .84rem;
+  font-weight: normal;
+}
+.introduction-name{
+  font-size: .88rem;
+  font-weight: normal;
+
 }
 .img-width{
   width: 25%;
@@ -51,7 +80,6 @@ header{
   font-size: .88rem;
   font-weight: normal;
 }
-
 section .download  {
   padding: 60px 0 100px; 
 }
@@ -283,6 +311,7 @@ footer {
     -ms-transform: translate3d(0, 0, 0);
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
+
 }
 
 #button-movil,#close-movil, .menu-header-movil{display: none;}
@@ -308,3 +337,6 @@ footer {
 @media (min-width: 992px) and (max-width: 1199px)  {}
 
 @media (min-width: 1200px) {}
+
+}
+
